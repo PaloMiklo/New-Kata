@@ -1,0 +1,19 @@
+{
+  "name": "new-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaloMiklo/New-Kata.git"
+  },
+  "author": "palomiklo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaloMiklo/New-Kata/issues"
+  },
+  "homepage": "https://github.com/PaloMiklo/New-Kata#readme"
+}
